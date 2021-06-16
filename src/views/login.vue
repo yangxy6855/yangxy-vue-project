@@ -125,6 +125,7 @@ export default {
 }
 </script>
 
+
 <style scoped>
 .login-wrap {
   box-sizing: border-box;
